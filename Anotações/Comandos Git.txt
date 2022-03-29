@@ -1,0 +1,4 @@
+git clone "link" (Clonar repositorios atraves de https)
+
+git status
+git add .(todos) index.txt(nome do arquivo)
