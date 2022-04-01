@@ -1,3 +1,0 @@
-Arquivos apenas os basicos, mas que fazem diferença.
-É possivel pesquisar varios tipos de configurações para o site, mas nos arquivos possui
-varios comandos basicos que podem ser uteis
